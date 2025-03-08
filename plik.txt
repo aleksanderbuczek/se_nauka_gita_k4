@@ -1,1 +1,1 @@
-Pierwsza linijka w pliku.
+Pierwsza linijka w pliku ale inna.
