@@ -7,7 +7,7 @@ function srednia_zwykla (a,b)
 
 function srednia_wazona (a,b)
 {
-		return 0.8*a + 0.2*b;
+		return 0.4*a + 0.6*b;
 }
 
 
